@@ -42,6 +42,6 @@ public class AES {
         System.out.println(str);
         String s = decode(str, generateKey());
         System.out.println(s);
-        System.out.println(s);
+        
     }
 }
